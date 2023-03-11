@@ -1,0 +1,29 @@
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content-div {
+  text-align: center;
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  padding: 10px;
+}
+h1 {
+  color: #0b69ff;
+}
+p {
+  color: grey;
+}
+.button {
+  background-color: #0b69ff;
+  border-radius: 8px;
+  border: 0;
+  color: white;
+  height: 22px;
+}
